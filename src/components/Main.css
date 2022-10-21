@@ -1,10 +1,7 @@
-
-
 .main--container {
   height: 100vh;
   padding: 57px 27px;
   color: #DEEBF8;
-  border: 2px solid #61DAFB;
   background-image: url('../images/react-icon-large.png');
   background-repeat: no-repeat;
   background-position: right 50%;
