@@ -1,0 +1,25 @@
+
+
+.main--container {
+  height: 100vh;
+  padding: 57px 27px;
+  color: #DEEBF8;
+  border: 2px solid #61DAFB;
+  background-image: url('../images/react-icon-large.png');
+  background-repeat: no-repeat;
+  background-position: right 50%;
+}
+
+.main--title {
+  margin-bottom: 46px;
+  letter-spacing: -0.05em;
+}
+
+.fact--item {
+  margin-bottom: 20px;
+}
+
+.fact--item::marker {
+  font-size: 1.5em;
+  color: #61DAFB;
+}
